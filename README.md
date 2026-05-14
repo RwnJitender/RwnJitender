@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Jitender Sarswat
 
 🚀 AI/ML Student | 🤖 Aspiring Machine Learning Engineer | 💻 Python Developer
 
